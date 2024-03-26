@@ -1,0 +1,62 @@
+body {
+    background-image: url(muro-hormigon-gris-claro_53876-89532.avif);
+    
+  }
+  h1 {
+    font-size: 8vw;
+    text-align: center;
+    font-family: cursive;
+    margin-top: 10px;
+  }
+  h3 {
+    font-size: 4vw;
+    margin-top: 1px;
+  }
+  hr {
+    width: 100%; 
+    margin-top: 10px; 
+    margin-bottom: 10px; 
+    border: none; 
+    border-top: 4px double rgb(15, 15, 12);
+  }
+  .contenedor {
+    display:flex;
+  }
+  .texto {
+    flex: 1;
+    padding: 20px;
+    font-size: 2vw;
+    
+    
+  }
+  .imagen {
+    flex: 1;
+    text-align:center;
+    margin-right: 10px;
+    font-size: 15vw;
+  }
+  img {
+    border-radius: 45px;
+    max-width: 100%;
+    height: auto;
+    border-width: 8px;
+    border-color: black;
+    border-style: groove;
+  }
+  .contenedor2 {
+    display: flex;
+  }
+  .link {
+    flex: 1;
+    padding: 20px;
+    font-size: 2vw;
+  }
+  .logo {
+    flex: 1;
+    text-align: right;
+    margin-right: 4px;
+    font-size: 10vw;
+  }
+  .Preparacion {
+   font-size: 30px;
+  }
